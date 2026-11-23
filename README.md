@@ -7,6 +7,8 @@
 [![MQTT](https://img.shields.io/badge/MQTT-Communication-660066?style=for-the-badge)](https://mqtt.org/)
 [![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![eYRC](https://img.shields.io/badge/eYRC-2025--26-800000?style=for-the-badge)](https://www.e-yantra.org/)
+
+
 Developed as part of the **e-Yantra Robotics Competition (eYRC) 2025–26**, IIT Bombay.
 
 ## Overview
