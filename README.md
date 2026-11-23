@@ -1,5 +1,12 @@
 # Holo Battalion – Multi-Robot Warehouse Automation System
-
+[![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge)](https://gazebosim.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![ESP32](https://img.shields.io/badge/ESP32-Embedded_Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![MQTT](https://img.shields.io/badge/MQTT-Communication-660066?style=for-the-badge)](https://mqtt.org/)
+[![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![eYRC](https://img.shields.io/badge/eYRC-2025--26-800000?style=for-the-badge)](https://www.e-yantra.org/)
 Developed as part of the **e-Yantra Robotics Competition (eYRC) 2025–26**, IIT Bombay.
 
 ## Overview
